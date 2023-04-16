@@ -1,0 +1,11 @@
+{
+  "name": "Hack",
+  "id": "1229185364610812177",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ]
+}
